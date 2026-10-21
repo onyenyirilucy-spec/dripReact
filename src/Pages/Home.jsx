@@ -45,14 +45,14 @@ function Home(){
                 <div className="footer_holder">
                     <article>
                         <h2>About Us</h2>
-                        <p>Drip by G is a modern fashion </p>
-                        <p>Brand offering </p>
-                        <p>Premium sneakers,</p>
-                        <p>Streetwears</p>
-                        <p>Accessories.</p>
-                        <p> We combine comfort,</p>
-                        <p>Class, and creativity </p>
-                        <p>To give you the perfect look</p>
+                        <p>Drip by G is a modern fashion Brand offering Premium sneakers, Streetwears Accessories. We combine comfort,Class, and creativity To give you the perfect look</p>
+                        {/* Brand offering 
+                        Premium sneakers,
+                        Streetwears
+                        Accessories.
+                         We combine comfort,
+                        Class, and creativity 
+                        To give you the perfect look */}
                     </article>
                     <article>
                         <h2>CONTACT INFO</h2>

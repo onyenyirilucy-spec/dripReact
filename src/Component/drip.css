@@ -149,24 +149,25 @@ footer{
 
 .footer_holder{
     width:80%;
+    min-height: 250px;
     display:flex;
     justify-content: space-between;
     padding: 40px 0;
 }
 
 article{
-        height: 400px;
+        /* height: 400px; */
         width: 30%;
         /* background-color: gray; */
         display: flex;
         flex-direction: column;
-        justify-content: flex-start;
-        align-items: flex-start;
+        /* justify-content: flex-start;
+        align-items: flex-start; */
         gap: 10px;
 
      }
 
-    h2{
+    .footer_holder h2{
             font-size: 30px;
             font-weight: 600;
             color: #ffffff;
@@ -174,7 +175,7 @@ article{
             margin-bottom: 12px;
         }
 
-     p{
+     .footer_holder p{
             font-size: 15px;
             font-weight: 200;
             color: #cccccc;

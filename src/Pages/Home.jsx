@@ -45,7 +45,9 @@ function Home(){
                 <div className="footer_holder">
                     <article>
                         <h2>About Us</h2>
-                        <p>Drip by G is a modern fashion Brand offering Premium sneakers, Streetwears Accessories. We combine comfort,Class, and creativity To give you the perfect look</p>
+                        <p>Drip by G is a modern fashion Brand offering Premium sneakers, 
+                        Streetwears Accessories. We combine comfort,Class, 
+                        and creativity To give you the perfect look</p>
                         {/* Brand offering 
                         Premium sneakers,
                         Streetwears

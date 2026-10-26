@@ -148,39 +148,40 @@ footer{
 }
 
 .footer_holder{
-    width:80%;
-    min-height: 250px;
+    width:90%;
+    min-height:220px;
+    max-width: 1200px;
     display:flex;
     justify-content: space-between;
+    align-items: flex-start;
     padding: 40px 0;
+    gap: 30px;
 }
 
 article{
-        /* height: 400px; */
         width: 30%;
-        /* background-color: gray; */
         display: flex;
         flex-direction: column;
-        /* justify-content: flex-start;
-        align-items: flex-start; */
-        gap: 10px;
+        gap: 12px;
 
      }
 
     .footer_holder h2{
-            font-size: 30px;
+            font-size: 22px;
             font-weight: 600;
             color: #ffffff;
             font-family: sans-serif;
-            margin-bottom: 12px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
         }
 
      .footer_holder p{
             font-size: 15px;
-            font-weight: 200;
+            font-weight: 300;
             color: #cccccc;
             font-family: sans-serif;
-            margin-bottom: 8px;
+            line-height: 1.6;
+            margin: 0;
         }
 
         .next_footer{

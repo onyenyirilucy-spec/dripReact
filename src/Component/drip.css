@@ -173,6 +173,7 @@ article{
             font-family: sans-serif;
             margin-bottom: 10px;
             text-transform: uppercase;
+            margin-right: 30px;
         }
 
      .footer_holder p{
@@ -181,7 +182,7 @@ article{
             color: #cccccc;
             font-family: sans-serif;
             line-height: 1.6;
-            margin-left: 20px;
+            margin:0;
         }
 
         .next_footer{
